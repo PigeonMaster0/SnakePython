@@ -15,6 +15,7 @@ while running:
     
     #debug segment positions
     #print(g.snake_body+["     Frame:"+str(Input.frame_count)])
+    #testing commits from laptop
 
     g.pygame.display.flip()
     g.clock.tick(120)
